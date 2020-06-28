@@ -1,5 +1,4 @@
-# COVID Analysis
-
+# COVID Analysis Using Plotly and Dash
 
 Aims to analyses the number of COVID cases and deaths occuring in the respective regions of the world.
 
